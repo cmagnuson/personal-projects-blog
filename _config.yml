@@ -10,7 +10,7 @@ description: I like building things.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/1679980?s=460&u=c71cec9d53e347dfeaf2b3dae511c7853b8a521b&v=4
-  
+
 #
 # Flags below are optional
 #
@@ -73,9 +73,16 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+include: ['_pages']
+
+paginate: 6
+paginate_path: /page:num/
 
 # Exclude these files from your production _site
 exclude:

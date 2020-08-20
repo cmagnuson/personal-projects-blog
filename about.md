@@ -3,13 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+I enjoy cooking, gardening, woodworking, and riding my road bike.
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+You can see some of my professional software work here [www.carlmagnuson.com](https://www.carlmagnuson.com)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[contact@carlmagnuson.com](mailto:contact@carlmagnuson.com)

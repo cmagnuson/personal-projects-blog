@@ -5,8 +5,8 @@ categories: Gardening Woodworking Covid-Projects
 excerpt_separator: <!--more-->
 ---
 ![Arch](/images/arch/0.jpg)
-A garden arch over the sidewalk, my first try doing a curved lamination.  I learned that instead of making a form to curve around, I could mark the curve and set screws along the line to clamp to.  The screws didn't pop out of the plywood or bend when applying the clamps!  But it also marred the inside surface of the arch from the screw threads - next time I would use screws again and a spacer strip on the inside so I don't mar the final surface and have to spend a lot of time steaming and sanding it smooth.  Also my first attempt at ironing dents out of wood!
-<!--more-->
+A garden arch over the sidewalk, my first try doing a curved lamination.  <!--more--> I learned that instead of making a form to curve around, I could mark the curve and set screws along the line to clamp to.  The screws didn't pop out of the plywood or bend when applying the clamps!  But it also marred the inside surface of the arch from the screw threads - next time I would use screws again and a spacer strip on the inside so I don't mar the final surface and have to spend a lot of time steaming and sanding it smooth.  Also my first attempt at ironing dents out of wood!
+
 
 ![Glue Up](/images/arch/1.jpg)
 

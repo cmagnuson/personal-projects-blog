@@ -18,3 +18,5 @@ The vertical lattice I made with half-lap joints, it feels really sturdy... in o
 
 I doweled and epoxied some 1/4" threaded rod into the feet of the arch to keep them slightly off the ground and to anchor it.  We'll lift up the arch and set it in the back yard over the winter.
 ![Arch](/images/arch/5.jpg)
+![Arch](/images/arch/6.jpg)
+![Arch](/images/arch/7.jpg)

@@ -23,7 +23,7 @@ I made a square hole in the gate, but did not square up the gate itself... so ev
 
 ![Dog Door](/images/dog-door/9.jpg)
 
-We decided we liked the clean look without a latch better, so I embedded magnets in the door, the frame, and the larger fence door. This holds the door in place in the opened and closed positions.  If I'd planned to use magnets from the beginning I would have attached them from the opposite sides of all the wood so they were completly concealed.  This wasn't possible however with the door and frame already built and installed.
+We decided we liked the clean look without a latch better, so I embedded magnets in the door, the frame, and the larger fence door. This holds the door in place in the opened and closed positions.  If I'd planned to use magnets from the beginning I would have attached them from the opposite sides of all the wood so they were completely concealed.  This wasn't possible however with the door and frame already built and installed.
 
 ![Dog Door](/images/dog-door/7.jpg)
 
@@ -37,4 +37,6 @@ It took Moby a couple of days to get used to his new window, but now he loves it
 
 ![Dog Door](/images/dog-door/10.jpg)
 
-![Dog Door](/images/dog-door/0.mp4)
+<video controls>
+  <source src="/images/dog-door/0.mp4" type="video/mp4">
+</video>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metal Garden Bed
-categories: Metalworking Gardening Covid-Projects
+categories: Metalworking Gardening Covid-Projects 2020
 excerpt_separator: <!--more-->
 ---
 ![Garden Bed](/images/metal-garden-bed/0.jpg)

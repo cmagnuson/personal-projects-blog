@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wood Shop Improvements
-categories: Woodworking Metalworking Covid-Projects
+categories: Woodworking Metalworking Covid-Projects 2020
 excerpt_separator: <!--more-->
 ---
 

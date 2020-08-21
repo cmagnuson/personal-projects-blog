@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Side By Side Tandem Bike
-categories: Metalworking Bike Covid-Projects
+categories: Metalworking Bike Covid-Projects 2020
 excerpt_separator: <!--more-->
 ---
 ![Side By Side Tandem](/images/side-by-side-tandem/0.jpg)

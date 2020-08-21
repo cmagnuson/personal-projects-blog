@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cedar Fence Planters
-categories: Woodworking Gardening Covid-Projects
+categories: Woodworking Gardening Covid-Projects 2020
 excerpt_separator: <!--more-->
 ---
 ![Cedar Fence Planters](/images/cedar-fence-planters/0.jpg)

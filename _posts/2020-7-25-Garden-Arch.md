@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Garden Arch
-categories: Gardening Woodworking Covid-Projects
+categories: Gardening Woodworking Covid-Projects 2020
 excerpt_separator: <!--more-->
 ---
 ![Arch](/images/arch/0.jpg)

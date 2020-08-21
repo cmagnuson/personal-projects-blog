@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dog Door
-categories: Woodworking Dog Covid-Projects
+categories: Woodworking Dog Covid-Projects 2020
 excerpt_separator: <!--more-->
 ---
 ![Dog Door](/images/dog-door/0.jpg)

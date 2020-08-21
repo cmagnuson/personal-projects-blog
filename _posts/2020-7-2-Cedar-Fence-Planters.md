@@ -13,7 +13,7 @@ The first planter I installed a plastic gutter to hold the soil and save the eff
 
 ![Cedar Fence Planters](/images/cedar-fence-planters/1.jpg)
 
-The first planter I assembeled with screws.  The second I glued and nailed together.  As you can see the glue has failed - I learned that certain glues will not hold well to cedar because of the oils it produces.   Once the growing season is over I plan to empty this planter and re-glue it with an appropriate glue.
+The first planter I assembled with screws.  The second I glued and nailed together.  As you can see the glue has failed - I learned that certain glues will not hold well to cedar because of the oils it produces.   Once the growing season is over I plan to empty this planter and re-glue it with an appropriate glue.
 
 ![Cedar Fence Planters](/images/cedar-fence-planters/2.jpg)
 

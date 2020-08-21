@@ -17,6 +17,8 @@ I welded a piece of round tubing between the head tubes.  I had to notch the tub
 
 We gave the bike a test run without the steering joined, and it did not go well!  It would take much more teamwork and coordination then we have to make any turns - the smallest misalignment of the two handlebars will cause one of the wheels to start skidding and shaking immediately.
 
+![Side By Side Tandem](/images/side-by-side-tandem/6.jpg)
+
 I mounted some flat metal bar to each handlebar and ran it out far enough that we could turn sharply without it striking the handlebars.  Then I mounted a strip of wood between each metal bar to test out the linked steering.
 
 ![Side By Side Tandem](/images/side-by-side-tandem/2.jpg)
@@ -26,6 +28,8 @@ The linked steering worked fairly well, and I've since replaced the wood with a 
 ![Side By Side Tandem](/images/side-by-side-tandem/3.jpg)
 
 For the moment the tandem bike in storage has been overgrown by hops.  So we'll take it out again in the fall, but for now we have a new mobile trellis.
+
+![Side By Side Tandem](/images/side-by-side-tandem/7.jpg)
 
 ![Side By Side Tandem](/images/side-by-side-tandem/4.jpg)
 

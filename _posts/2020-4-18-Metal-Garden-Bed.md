@@ -23,11 +23,14 @@ To give the bed some more strength along the long walls to keep them from bowing
 
 ![Garden Bed](/images/metal-garden-bed/3.jpg)
 
+I found that leveling this bed was much easier then the wooden beds I've built in the past.  We would set the first corner where we wanted it, drive in a rebar stake and weld it to the bed.  Then we could continue around the bed, making it level and welding it to a stake in the ground.
+
+![Garden Bed](/images/metal-garden-bed/10.jpg)
+
+
 Since we were putting the bed directly abutting the sidewalk, I made a wooden surround to cover the sharp metal corners and make it more attractive.
 
 ![Garden Bed](/images/metal-garden-bed/4.jpg)
-
-I found that leveling this bed was much easier then the wooden beds I've built in the past.  We would set the first corner where we wanted it, drive in a rebar stake and weld it to the bed.  Then we could continue around the bed, making it level and welding it to a stake in the ground.
 
 ![Garden Bed](/images/metal-garden-bed/5.jpg)
 

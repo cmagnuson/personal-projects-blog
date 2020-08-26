@@ -12,6 +12,8 @@ I built a fence around our raised beds to keep animals (mostly our dog) out.
 
 This replaced some chicken wire surrounding the beds, which didn't look very nice and was a pain to step over when gardening.
 
+![Garden Fence](/images/garden-fence/4.jpg)
+
 I made some rectangular frames using cedar and pocket screws. On the backside of the frame I stapled on a metal mesh. This was a pretty quick process.
 
 ![Garden Fence](/images/garden-fence/1.jpg)

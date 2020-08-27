@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Giant Seesaw
-categories: Woodworking 2014
+categories: Woodworking Big-Toys 2014
 excerpt_separator: <!--more-->
 ---
 

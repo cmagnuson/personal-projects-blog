@@ -16,6 +16,6 @@ I made the trellis long so I could use the feet to secure it to the ground, and 
 
 ![Hops Trellis](/images/hops-trellis/1.jpg)
 
-In the summer it fills out completly with hops which gives great shade to the office.  In the winter it is wide open letting in the sunlight.
+In the summer it fills out completely with hops which gives great shade to the office.  In the winter it is wide open letting in the sunlight.
 
 ![Hops Trellis](/images/hops-trellis/2.jpg)

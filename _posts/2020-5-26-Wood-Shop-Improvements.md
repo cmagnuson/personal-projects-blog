@@ -29,9 +29,19 @@ I cut out name plates for each drawer with the CNC, using stencil font.  Some le
 
 ![Wood Shop Improvements](/images/wood-shop-improvements/5.jpg)
 
-I made a cart for my air compressor and air tools - I can store the compressor and framing nailer in the open bays in the bottom, and hardware and fittings in the upper drawers.  On the right size I can coil air hoses and have a compartment for tool oil.  On the back I have a rack for hanging smaller air tools, and a cubby for finish nailers.
+I made a cart for my air compressor and air tools - I can store the compressor and framing nailer in the open bays in the bottom, and hardware and fittings in the upper drawers.
 
 ![Wood Shop Improvements](/images/wood-shop-improvements/6.jpg)
+
+![Wood Shop Improvements](/images/wood-shop-improvements/22.jpg)
+
+On the right size I can coil air hoses and have a compartment for tool oil.
+
+![Wood Shop Improvements](/images/wood-shop-improvements/23.jpg)
+
+On the back I have a rack for hanging smaller air tools, and a cubby for finish nailers.
+
+![Wood Shop Improvements](/images/wood-shop-improvements/24.jpg)
 
 ![Wood Shop Improvements](/images/wood-shop-improvements/7.jpg)
 
